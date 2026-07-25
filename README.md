@@ -39,19 +39,19 @@ This project focuses on analyzing a delivery dataset using Microsoft Excel. The 
 ### Visualizations
 
 #### Visualization 1
-![Visualization 1](screenshots/visualization 1.png)
+![Visualization 1](screenshots/Visualization1.png)
 
 #### Visualization 2
-![Visualization 2](screenshots/visualization 2.png)
+![Visualization 2](screenshots/Visualization2.png)
 
 #### Visualization 3
-![Visualization 3](screenshots/visualization 3.png)
+![Visualization 3](screenshots/Visualization3.png)
 
 #### Visualization 4
-![Visualization 4](screenshots/visualization 4.png)
+![Visualization 4](screenshots/Visualization4.png)
 
 #### Visualization 5
-![Visualization 5](screenshots/visualization 5.png)
+![Visualization 5](screenshots/Visualization5.png)
 
 ## Key Insights
 - Analyzed overall delivery performance.
